@@ -11,16 +11,17 @@ This challenge is to build the back end for an e-commerce site by taking a worki
 - [Website](#website)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributors](#contributors)
 - [Questions](#questions)
 
 ## Website
 
-Video walkthrough of application [here.]()
+Video walkthrough of application [here.](https://drive.google.com/file/d/1GsUXrFem4gtHVELFryK5VCI9KjWcvX65/view)
 
 ## Usage
 
-![image]
+Seed a test database and use the API CRUD routes in Insomnia to display the data for each route in JSON.
+
+![image](/assets/images/check-in-the-backend-screenshot.png)
 
 ## Technologies
 
@@ -29,8 +30,6 @@ This app uses the following technologies:
 - [Express](https://www.npmjs.com/package/express)
 - [mySQL2](https://www.npmjs.com/package/mysql2)
 - [dotenv](https://www.npmjs.com/package/dotenv)
-
-## Contributors
 
 ## Questions
 
